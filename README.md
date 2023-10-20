@@ -7,3 +7,4 @@ Created a tableau dashboard that shows the aggregated loan originated per recipi
 
 # [Project 2: Exploratory Data Analysis using R to find bonus index violation within Atlas employee dataset: Project Overview](https://github.com/Legendarysh76/R_Code_EDA_AtlasEmployees)
 Used R to conduct statistical exploratory Data Analysis of Atlas dataset to find which types employee groups are more likely to have their bonus index violated. 
+![](https://github.com/Legendarysh76/Oluwaseyi_Portfolio/blob/main/images/fulltime%20tenure%20vs%20bonus%20index.png)
