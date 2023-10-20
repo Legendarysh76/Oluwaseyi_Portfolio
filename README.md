@@ -13,3 +13,4 @@ Used R to conduct statistical exploratory Data Analysis of Atlas dataset to find
 
 # [Project 3: Nike Factory Location Analysis: Project Overview](https://public.tableau.com/app/profile/oluwaseyi.orioye/viz/Nike_Factory_Location_Analysis/Dashboard)
 Created a tableau dashboard visual analysis of Nike Factory analysis within Asia and the Americas. These analysis include number of factories, total workers, factory type and product type. 
+![](https://github.com/Legendarysh76/Oluwaseyi_Portfolio/blob/main/images/Dashboard%20%20(1).png)
