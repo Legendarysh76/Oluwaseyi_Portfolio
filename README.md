@@ -23,3 +23,6 @@ Created a tableau dashboard visual analysis of the city of seattle equipment sal
 Created a tableau dashboard visual analysis using the superstore dataset to analyze total profit by category, average sales by category and number of returns by segment
 ![](https://github.com/Legendarysh76/Oluwaseyi_Portfolio/blob/main/images/Categorical%20Analysis%20Dashboard.png)
 
+# Project 6: Used car dealership Database and design: Project overview
+Designed and created a database for a small used car dealership usuing SAS SQL
+
