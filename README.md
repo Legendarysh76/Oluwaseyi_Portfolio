@@ -17,4 +17,5 @@ Created a tableau dashboard visual analysis of Nike Factory analysis within Asia
 
 # [Project 4: City of Seattle Equip Sales Analaysis: Project Overview](https://public.tableau.com/app/profile/oluwaseyi.orioye/viz/CityofSeattleEquipmentSales/DashboardCityofSeattle)
 Created a tableau dashboard visual analysis of the city of seattle equipment sales. These analysis include number of sold equipments by Ford, revenue, age of equipments etc. 
+![](https://github.com/Legendarysh76/Oluwaseyi_Portfolio/blob/main/images/Dashboard_%20City%20of%20Seattle%20(4).png)
 
