@@ -25,4 +25,5 @@ Created a tableau dashboard visual analysis using the superstore dataset to anal
 
 # Project 6: Used car dealership Database and design: Project overview
 Designed and created a database for a small used car dealership usuing SAS SQL
+![](https://github.com/Legendarysh76/Oluwaseyi_Portfolio/blob/main/images/Used%20Car%20dealership%20ERD.png)
 
