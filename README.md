@@ -5,7 +5,7 @@ Snippets of some of my data analytics projects
 Created a tableau dashboard that shows the aggregated loan originated per recipients by state, per school type and the most expensive college per state using drill down maps. 
 ![](https://github.com/Legendarysh76/Oluwaseyi_Portfolio/blob/main/images/College%20Loan%20Analysis%20Dashboard.png)
 
-#[Project 2: How long you should expect to live: Project Overview](https://public.tableau.com/app/profile/oluwaseyi.orioye/viz/Howlongyoushouldexpecttolive/Dashboard1)
+# [Project 2: How long you should expect to live: Project Overview](https://public.tableau.com/app/profile/oluwaseyi.orioye/viz/Howlongyoushouldexpecttolive/Dashboard1)
 Used R to clean and explore Life expectancy dataset, then created a tableau dashboard showing visual analytics of how long you should expect to live within North America, Africa and The middle East. 
 ![](https://github.com/Legendarysh76/Oluwaseyi_Portfolio/blob/main/images/Dashboard%201.png)
 
